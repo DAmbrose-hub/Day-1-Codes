@@ -1,0 +1,30 @@
+
+CAR PRICE IS :100.0
+
+CAR ENGINE TYPE IS : PETROL
+
+CAR'S WHEELS INFO IS :
+
+Wheel 1:
+Diameter : 15
+Price : 6000.0
+Thickness : 8.5
+Weight : 20
+
+Wheel 2:
+Diameter : 14
+Price : 7000.0
+Thickness : 7.5
+Weight : 18
+
+Wheel 3:
+Diameter : 16
+Price : 8000.0
+Thickness : 8.5
+Weight : 16
+
+Wheel 4:
+Diameter : 14
+Price : 6500.0
+Thickness : 8.5
+Weight : 19

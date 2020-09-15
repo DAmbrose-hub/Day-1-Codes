@@ -1,0 +1,10 @@
+METHOD CALL FROM SUB CLASS
+
+Sum of given 2 numbers is : 64
+Subtraction of given 2 numbers is : -4
+The product of 2 given numbers is : 1020
+M
+ETHOD CALL FROM SUPER CLASS
+
+Sum of given 2 numbers is : 64
+Subtraction of given 2 numbers is : -4
